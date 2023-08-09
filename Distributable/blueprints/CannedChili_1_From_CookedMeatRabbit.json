@@ -1,0 +1,36 @@
+{
+    "Name": "CannedChili_1_From_CookedMeatRabbit",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_CookedMeatRabbit",
+            "Count": 16
+        },
+        {
+            "Item": "GEAR_CattailStalk",
+            "Count": 4
+        },
+        {
+            "Item": "GEAR_cookingoil", 
+            "Count": 4
+        },
+        {
+            "Item": "GEAR_RecycledCan",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [
+        "GEAR_KnifeImprovised"
+    ],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_CannedChili",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "Play_FryingLight",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

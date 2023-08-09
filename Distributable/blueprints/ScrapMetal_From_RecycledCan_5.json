@@ -1,0 +1,24 @@
+{
+    "Name": "ScrapMetal_From_RecycledCan_5",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_RecycledCan",
+            "Count": 5
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ScrapMetal",
+    "CraftedResultCount": 15,
+    "DurationMinutes": 300,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

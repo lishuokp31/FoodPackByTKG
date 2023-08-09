@@ -1,0 +1,22 @@
+{
+    "Name": "Trade_sell_2_WolfPeltDried",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_WolfPeltDried",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_CashBundle",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 1,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

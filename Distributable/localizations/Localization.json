@@ -76,7 +76,7 @@
         "Italian": "Chili",
         "Japanese": "チリ缶",
         "Spanish (Spain)": "Chili"
-        "Simplified Chinese": "辣味罐头",
+        "Simplified Chinese": "炖肉罐头KP31",
     },
     "GAMEPLAY_CannedChiliDescription": {
         "English": "Hearty. Warming. Soul soothing.",
@@ -86,7 +86,7 @@
         "Japanese": "愛情たっぷり。体も温まる。心も落ち着く。",
         "Spanish (Spain)": "Delicioso. Cálido. Alimento para el alma.",
         "Turkish": "Besleyici. Bedeni ve ruhu ısıtır."
-        "Simplified Chinese":"对于无辣不欢的人来说，该产品正适合你！用豆豉肉末和娘惹酱配制而成。可冷食也可开盖烹煮，脱水+10%",
+        "Simplified Chinese":"KP31神秘科技炖肉系列，使用狩猎到的各种动物肉在工作台加工而成。0.1kg的重量却有着1个W的kcal，适合出远门时携带。\n\n可永久保存。",
     },
     "GAMEPLAY_CannedMangos": {
         "English": "Cubed Mangos",
@@ -176,7 +176,7 @@
         "Japanese": "シチューの缶詰",
         "Spanish (Spain)": "Estofado",
         "Turkish": "Güveç"
-        "Simplified Chinese":"炖牛肉罐头",
+        "Simplified Chinese":"炖菜罐头KP31",
     },
     "GAMEPLAY_CannedStewDescription": {
         "English": "A hearty meal with beef and vegetables. An ideal meal.",
@@ -186,7 +186,7 @@
         "Japanese": "牛肉と野菜が入った愛情あふれる料理。理想の一品だ。",
         "Spanish (Spain)": "Un plato copioso con ternera y verduras. Una comida ideal.",
         "Turkish": "Sığır eti ve sebze ile doyurucu bir yemek. İdeal bir yemek."
-        "Simplified Chinese":"罐装炖牛肉，保质期长，旅人的最佳食品。可冷食也可开盖烹煮。脱水+10%",
+        "Simplified Chinese":"KP31神秘科技炖菜系列，使用能各种蔬菜在工作台加工而成。0.1kg的重量却有着0.5个W的kcal，适合出远门时携带。\n\n可永久保存。"
     },
     "GAMEPLAY_CatFood": {
         "English": "Cat Food",
@@ -209,7 +209,7 @@
         "Japanese": "ドライタイプのキャットフード缶。 \n匂いは酷く、そして味はそれ以上に酷いだろう。",
         "Spanish (Spain)": "Lata de comida seca para gatos. \nHuele mal, sabrá peor.",
         "Turkish": "Bir kutu kuru kedi maması.\nBerbat kokuyor ve muhtemelen tadı daha kötü olacak"
-        "Simplified Chinese":"一大盒烘干的麦片。具有极高的热量。对长途旅行的人来说是必不可少的，食用后非常容易口渴。脱水+26%",
+        "Simplified Chinese":"一罐干燥的猫粮。\n很难闻，尝起来可能更糟糕。",
     },
     "GAMEPLAY_Cookies": {
         "English": "Cookies",
