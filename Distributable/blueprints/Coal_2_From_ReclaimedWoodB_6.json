@@ -1,0 +1,24 @@
+{
+    "Name": "Coal_2_From_ReclaimedWoodB_6",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_ReclaimedWoodB",
+            "Count": 12
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Coal",
+    "CraftedResultCount": 6,
+    "DurationMinutes": 60,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

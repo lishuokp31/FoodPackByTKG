@@ -1,0 +1,22 @@
+{
+    "Name": "Trade_3_potato",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_CashBundle",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_potato",
+    "CraftedResultCount": 4,
+    "DurationMinutes": 1,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

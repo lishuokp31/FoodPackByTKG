@@ -1,0 +1,24 @@
+{
+    "Name": "Coal_1_From_Stick_3",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Stick",
+            "Count": 24
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Coal",
+    "CraftedResultCount": 3,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}
