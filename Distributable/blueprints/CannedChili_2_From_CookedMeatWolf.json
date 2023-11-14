@@ -3,15 +3,11 @@
     "RequiredGear": [
         {
             "Item": "GEAR_CookedMeatWolf",
-            "Count": 10
-        },
-        {
-            "Item": "GEAR_CattailStalk",
-            "Count": 6
+            "Count": 12
         },
         {
             "Item": "GEAR_cookingoil", 
-            "Count": 4
+            "Count": 2
         },
         {
             "Item": "GEAR_RecycledCan",
