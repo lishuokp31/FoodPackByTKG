@@ -76,7 +76,7 @@
         "Italian": "Chili",
         "Japanese": "チリ缶",
         "Spanish (Spain)": "Chili"
-        "Simplified Chinese": "炖肉罐头KP31",
+        "Simplified Chinese": "KP31炖肉罐头",
     },
     "GAMEPLAY_CannedChiliDescription": {
         "English": "Hearty. Warming. Soul soothing.",
@@ -176,7 +176,7 @@
         "Japanese": "シチューの缶詰",
         "Spanish (Spain)": "Estofado",
         "Turkish": "Güveç"
-        "Simplified Chinese":"炖菜罐头KP31",
+        "Simplified Chinese":"KP31炖菜罐头",
     },
     "GAMEPLAY_CannedStewDescription": {
         "English": "A hearty meal with beef and vegetables. An ideal meal.",

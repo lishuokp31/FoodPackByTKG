@@ -1,0 +1,30 @@
+{
+    "RecipeName": "KP31炖肉罐头",
+    "RecipeDescription": "",
+    "RecipeIcon": "",
+    "RequiredSkillLevel": 1,
+    "AllowedCookingPots": [
+        "GEAR_cookingpot"
+    ],
+    "BlueprintData": {
+        "Name": "REC_CannedChili",
+        "RequiredGear": [
+            {
+                "Item": "GEAR_CookedMeatMoose",
+                "Count": 10
+            },
+            {
+                "Item": "GEAR_cookingoil",
+                "Count": 2
+            },
+            {
+                "Item": "GEAR_RecycledCan",
+                "Count": 1
+            }
+        ],
+        "CraftedResult": "GEAR_CannedChili",
+        "CraftedResultCount": 1,
+        "DurationMinutes": 60,
+        "CraftingAudio": "PLAY_CRAFTINGPIE"
+    }
+}

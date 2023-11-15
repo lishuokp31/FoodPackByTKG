@@ -1,0 +1,34 @@
+{
+    "RecipeName": "KP31炖菜罐头",
+    "RecipeDescription": "",
+    "RecipeIcon": "",
+    "RequiredSkillLevel": 1,
+    "AllowedCookingPots": [
+        "GEAR_cookingpot"
+    ],
+    "BlueprintData": {
+        "Name": "GEAR_CannedStew",
+        "RequiredGear": [
+            {
+                "Item": "GEAR_AcornCookedBig",
+                "Count": 4
+            },
+            {
+                "Item": "GEAR_BurdockPrepared",
+                "Count": 8
+            },
+            {
+                "Item": "GEAR_CattailStalk", 
+                "Count": 8
+            },
+            {
+                "Item": "GEAR_RecycledCan",
+                "Count": 1
+            }
+        ],
+        "CraftedResult": "GEAR_CannedStew",
+        "CraftedResultCount": 1,
+        "DurationMinutes": 60,
+        "CraftingAudio": "PLAY_CRAFTINGPIE"
+    }
+}
