@@ -1,9 +1,9 @@
 {
-    "Name": "Coal_2_From_Softwood",
+    "Name": "Coal_4_From_Softwood_3",
     "RequiredGear": [
         {
             "Item": "GEAR_Softwood",
-            "Count": 1
+            "Count": 3
         }
     ],
     "KeroseneLitersRequired": 0,
@@ -16,8 +16,8 @@
     "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_Coal",
-    "CraftedResultCount": 1,
-    "DurationMinutes": 10,
+    "CraftedResultCount": 3,
+    "DurationMinutes": 30,
     "CraftingAudio": "PLAY_HARVESTINGACORNS",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"

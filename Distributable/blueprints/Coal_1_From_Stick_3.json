@@ -1,9 +1,9 @@
 {
-    "Name": "Coal_3_From_Hardwood",
+    "Name": "Coal_1_From_Stick_3",
     "RequiredGear": [
         {
-            "Item": "GEAR_Hardwood",
-            "Count": 2
+            "Item": "GEAR_Stick",
+            "Count": 24
         }
     ],
     "KeroseneLitersRequired": 0,
