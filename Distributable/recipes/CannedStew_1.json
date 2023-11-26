@@ -15,11 +15,19 @@
             },
             {
                 "Item": "GEAR_BurdockPrepared",
+                "Count": 4
+            },
+            {
+                "Item": "GEAR_carrot",
+                "Count": 8
+            },
+            {
+                "Item": "GEAR_potato",
                 "Count": 8
             },
             {
                 "Item": "GEAR_CattailStalk", 
-                "Count": 8
+                "Count": 24
             },
             {
                 "Item": "GEAR_RecycledCan",

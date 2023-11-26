@@ -1,0 +1,22 @@
+{
+    "Name": "PlantNutrientsCrafted_From_GutDried",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_GutDried",
+            "Count": 4
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_PlantNutrientsCrafted",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}
