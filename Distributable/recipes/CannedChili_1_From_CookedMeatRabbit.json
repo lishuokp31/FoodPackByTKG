@@ -11,17 +11,31 @@
         "RequiredGear": [
             {
                 "Item": "GEAR_CookedMeatRabbit",
-                "Count": 18
+                "Count": 14
+            },
+            {
+                "Item": "GEAR_BurdockPrepared",
+                "Count": 3
+            },
+            {
+                "Item": "GEAR_carrot",
+                "Count": 3
+            },
+            {
+                "Item": "GEAR_potato",
+                "Count": 3
             },
             {
                 "Item": "GEAR_cookingoil",
-                "Count": 2
+                "Count": 4
             },
             {
                 "Item": "GEAR_RecycledCan",
                 "Count": 1
             }
         ],
+        "RequiredPowder":[{"Powder":"POWDER_Flour","QuantityInKilograms":0.5}],
+		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":1}],
         "CraftedResult": "GEAR_CannedChili",
         "CraftedResultCount": 1,
         "DurationMinutes": 60,
