@@ -7,6 +7,7 @@
         "Japanese": "オーロラエナジードリンク",
         "Spanish (Spain)": "Bebida energética Aurora",
         "Turkish": "Kuzey Işıkları Enerji İçeceği",
+        "Simplified Chinese":"极光能量饮料",
         "Italian": "Bevanda Energetica Aurora"
     },
     "GAMEPLAY_AuroraEnergyDrinkDescription": {
@@ -43,6 +44,7 @@
         "Japanese": "ごく普通の瓶ビール。",
         "Spanish (Spain)": "Una botella de cerveza corriente.",
         "Turkish": "Ortalama bir şişe bira.",
+        "Simplified Chinese":"想来瓶爽口的冰镇啤酒吗？非常棒的解渴饮品(酒精含量5%)。 口渴恢复40%",
         "Italian": "Una bottiglia di birra ordinaria."
     },
     "GAMEPLAY_Bread": {
@@ -53,6 +55,7 @@
         "Japanese": "パン",
         "Spanish (Spain)": "Barra de pan",
         "Turkish": "Somun Ekmek",
+        "Simplified Chinese":"面包",
         "Italian": "Focaccia Bianca"
     },
     "GAMEPLAY_BreadDescription": {
@@ -63,6 +66,7 @@
         "Japanese": "ごくありふれた黒パン。",
         "Spanish (Spain)": "Una barra de pan integral normal.",
         "Turkish": "Buğday unundan yapılmış somun ekmek",
+        "Simplified Chinese":"用精致面粉加工而成的普通面包，热量高，但容易口渴。建议严重脱水时在食用，脱水+25%",
         "Italian": "Una morbida focaccia bianca."
     },
     "GAMEPLAY_CannedChili": {
@@ -74,7 +78,7 @@
         "Turkish": "Acı Biber",
         "Korean": "칠리 통조림",
         "Italian": "Chili",
-        "Simplified Chinese": "Chili",
+        "Simplified Chinese": "辣味罐头",
         "Japanese": "チリ缶",
         "Spanish (Spain)": "Chili"
     },
@@ -86,6 +90,7 @@
         "Japanese": "愛情たっぷり。体も温まる。心も落ち着く。",
         "Spanish (Spain)": "Delicioso. Cálido. Alimento para el alma.",
         "Turkish": "Besleyici. Bedeni ve ruhu ısıtır.",
+        "Simplified Chinese":"对于无辣不欢的人来说，该产品正适合你！用豆豉肉末和娘惹酱配制而成。可冷食也可开盖烹煮，脱水+10%",
         "Italian": "Calorosa. Scaldante. Rilassante per l'anima."
     },
     "GAMEPLAY_CannedMangos": {
@@ -96,6 +101,7 @@
         "Japanese": "角切りマンゴーの缶詰",
         "Spanish (Spain)": "Mangos troceados",
         "Turkish": "Konserve Mango",
+        "Simplified Chinese":"芒果罐头",
         "Italian": "Mango a Cubetti"
     },
     "GAMEPLAY_CannedMangosDescription": {
@@ -106,6 +112,7 @@
         "Japanese": "美味しく、甘く、滑らかな口当たり。",
         "Spanish (Spain)": "Deliciosos, dulces y un poco pegajosos.",
         "Turkish": "Lezzetli, tatlı ve yumuşak.",
+        "Simplified Chinese":"糖浆芒果肉，美味可口，本地特产。可冷食也可开盖烹煮。口渴恢复10%",
         "Italian": "Deliziose, dolci e viscidi."
     },
     "GAMEPLAY_CannedPears": {
@@ -116,6 +123,7 @@
         "Japanese": "二つ切り洋梨の缶詰",
         "Spanish (Spain)": "Peras partidas",
         "Turkish": "İkiye Bölünmüş Armut",
+        "Simplified Chinese":"梨罐头",
         "Italian": "Pere Affettate"
     },
     "GAMEPLAY_CannedPearsDescription": {
@@ -126,6 +134,7 @@
         "Japanese": "新鮮ではないが、十分美味しい。",
         "Spanish (Spain)": "No son las más frecas, pero en cualquier caso están buenas.",
         "Turkish": "Ne olursa olsun en taze değil ama lezzetli.",
+        "Simplified Chinese":"糖浆梨肉，美味可口，本地特产。可冷食也可开盖烹煮。口渴恢复10%",
         "Italian": "Non le più fresche, ma buone lo stesso."
     },
     "GAMEPLAY_CannedPineapples": {
@@ -136,6 +145,7 @@
         "Japanese": "角切りりんごの缶詰",
         "Spanish (Spain)": "Manzanas trozeadas",
         "Turkish": "Doğranmış elma",
+        "Simplified Chinese":"菠萝罐头",
         "Italian": "Mele Tagliate a Dadini"
     },
     "GAMEPLAY_CannedPineapplesDescription": {
@@ -146,6 +156,7 @@
         "Japanese": "誰からも愛される定番のフルーツ。",
         "Spanish (Spain)": " Una fruta básica amada por todos.",
         "Turkish": "Herkes tarafından sevilen temel bir meyve.",
+        "Simplified Chinese":"糖浆菠萝片，美味可口，本地特产。可冷食也可开盖烹煮。口渴恢复10%",
         "Italian": "Un frutto di base amato da tutti."
     },
     "GAMEPLAY_CannedSpaghetti": {
@@ -156,6 +167,7 @@
         "Japanese": "スパゲッティの缶詰",
         "Spanish (Spain)": "Spagetti enlatado",
         "Turkish": "Spagetti",
+        "Simplified Chinese":"意式肉丸面罐头",
         "Italian": "Spaghetti"
     },
     "GAMEPLAY_CannedSpaghettiDescription": {
@@ -166,6 +178,7 @@
         "Japanese": "君の内なる子供心に届けよう！",
         "Spanish (Spain)": "¡Alimenta a tu niño interior!",
         "Turkish": "İçindeki çocuğu doyur!",
+        "Simplified Chinese":"浓郁的肉香寻引最真挚的自己，可冷食也可开盖烹煮。脱水+10%",
         "Italian": "Sfama il tuo bambino interiore!"
     },
     "GAMEPLAY_CannedStew": {
@@ -176,6 +189,7 @@
         "Japanese": "シチューの缶詰",
         "Spanish (Spain)": "Estofado",
         "Turkish": "Güveç",
+        "Simplified Chinese":"炖牛肉罐头",
         "Italian": "Stufato"
     },
     "GAMEPLAY_CannedStewDescription": {
@@ -186,6 +200,7 @@
         "Japanese": "牛肉と野菜が入った愛情あふれる料理。理想の一品だ。",
         "Spanish (Spain)": "Un plato copioso con ternera y verduras. Una comida ideal.",
         "Turkish": "Sığır eti ve sebze ile doyurucu bir yemek. İdeal bir yemek.",
+        "Simplified Chinese":"罐装炖牛肉，保质期长，旅人的最佳食品。可冷食也可开盖烹煮。脱水+10%",
         "Italian": "Un caloroso pasto con manzo e verdure. Un pasto ideale."
     },
     "GAMEPLAY_CatFood": {
@@ -197,7 +212,7 @@
         "Turkish": "Kedi Maması",
         "Korean": "고양이 밥",
         "Italian": "Cibo per Gatti",
-        "Simplified Chinese": "猫食",
+        "Simplified Chinese": "猫粮",
         "Japanese": "キャットフード",
         "Spanish (Spain)": "Comida para gato"
     },
@@ -209,6 +224,7 @@
         "Japanese": "ドライタイプのキャットフード缶。 \n匂いは酷く、そして味はそれ以上に酷いだろう。",
         "Spanish (Spain)": "Lata de comida seca para gatos. \nHuele mal, sabrá peor.",
         "Turkish": "Bir kutu kuru kedi maması.\nBerbat kokuyor ve muhtemelen tadı daha kötü olacak",
+        "Simplified Chinese":"一大盒烘干的麦片。具有极高的热量。对长途旅行的人来说是必不可少的，食用后非常容易口渴。脱水+26%",
         "Italian": "Una lattina di cibo per gatti secco. \nHa un odore terribile e avrà un sapore peggiore."
     },
     "GAMEPLAY_Cookies": {
@@ -220,7 +236,7 @@
         "Turkish": "Kurabiye",
         "Korean": "쿠키",
         "Italian": "Biscotti",
-        "Simplified Chinese": "饼干",
+        "Simplified Chinese": "曲奇饼干",
         "Japanese": "クッキー",
         "Spanish (Spain)": "Cookies"
     },
@@ -233,7 +249,7 @@
         "Turkish": "Biraz bayat ama yine de tadı güzel.",
         "Korean": "조금 오래된 것 같지만, 아직도 맛은 있습니다.",
         "Italian": "Un po' stantii, ma hanno ancora un buon sapore.",
-        "Simplified Chinese": "有点陈旧，但它们仍然很好吃。",
+        "Simplified Chinese":"饼干有点不新鲜，但味道还不错。脱水+5%",
         "Japanese": "ちょっと傷んでるけど、味はまだ大丈夫。",
         "Spanish (Spain)": "Un poco pasadas, pero aún están buenas."
     },
@@ -246,7 +262,7 @@
         "Turkish": "Mısır Gevreği",
         "Korean": "콘프레이크",
         "Italian": "Cornflakes",
-        "Simplified Chinese": "玉米片",
+        "Simplified Chinese":"玉米片",
         "Japanese": "コーンフレーク",
         "Spanish (Spain)": "Copos de maíz"
     },
@@ -258,6 +274,7 @@
         "Japanese": "コーンフレークの大箱。ドライでカロリー控えめ。",
         "Spanish (Spain)": "Una caja grande de copos de maíz. Secos y faltos de calorias.",
         "Turkish": "Büyük boy mısır gevreği. Kuru ve nispeten kalorisiz.",
+        "Simplified Chinese":"一大盒烘干的玉米片，具有极高的热量。对长途旅行的人来说是必不可少的，食用后非常容易口渴。脱水+26%",
         "Italian": "Una grossa scatola di cornflakes. Secchi e relativamente carenti di calorie."
     },
     "GAMEPLAY_CupMilk": {
@@ -268,6 +285,7 @@
         "Japanese": "カップ入りミルク",
         "Spanish (Spain)": "Taza de leche",
         "Turkish": "Bir Bardak Süt",
+        "Simplified Chinese":"复水牛奶",
         "Italian": "Tazza di Latte"
     },
     "GAMEPLAY_CupMilkDescription": {
@@ -278,6 +296,7 @@
         "Japanese": "水よりはましな味だろう -- だが骨を丈夫にすることはできないだろう。",
         "Spanish (Spain)": "Puede que sepa mejor que el agua, pero no fortalecerá tus huesos.",
         "Turkish": "Tadı sudan daha iyi olabilir ama kemiklerinizi güçlendirmez.",
+        "Simplified Chinese":"味道比白开水好点。不是什么营养品，更不会让你的体格健壮。口渴恢复35%",
         "Italian": "Può avere un gusto migliore dell'acqua -- ma non rafforzerà le tue ossa."
     },
     "GAMEPLAY_DryMilkPacket": {
@@ -289,7 +308,7 @@
         "Turkish": "Süt Tozu Paketi",
         "Korean": "분유팩",
         "Italian": "Bustina di Latte in Polvere",
-        "Simplified Chinese": "干奶包",
+        "Simplified Chinese": "浓缩奶包",
         "Japanese": "粉ミルクのパック",
         "Spanish (Spain)": "Paquete de leche en polvo"
     },
@@ -302,7 +321,7 @@
         "Turkish": "Bir paket süt tozu.",
         "Korean": "팩에담긴 우유 분말",
         "Italian": "Una bustina di latte in polvere.",
-        "Simplified Chinese": "一包奶粉。",
+        "Simplified Chinese":"脱水浓缩奶包，不要开袋即食。必须烹煮饮用",
         "Japanese": "粉ミルクの小さなパック。水に溶かして使う。",
         "Spanish (Spain)": "Un paquete de leche en polvo. Mézclalo con agua para rehidratarla."
     },
@@ -327,6 +346,7 @@
         "Japanese": "崖っぷちよりはまし。The Long Developmentの公式飲料です！",
         "Spanish (Spain)": "La vida es mejor al límite ¡Bebida oficial de El Largo Desarrollo!",
         "Turkish": "Hayat sınırda daha iyidir. The Long Development'ın resmi içeceği!",
+        "Simplified Chinese":"游走世界边缘，尽享极致人生。酒精含量5%，口渴恢复15%",
         "Italian": "La vita è meglio al limite. Bevanda ufficiale di The Long Development!"
     },
     "GAMEPLAY_HoneyJar": {
@@ -350,6 +370,7 @@
         "Japanese": "これこそ真の救命の一品。ハチミツは大量のカロリーを摂取できて、そして決して腐りません。",
         "Spanish (Spain)": "Un verdadero salvavidas. Proporciona una buena cantidad de calorías y jamás caducará.",
         "Turkish": "Gerçek bir cankurtaran. Bal bol miktarda kalori sağlar ve asla bozulmaz.",
+        "Simplified Chinese":"美味而健康的食品，可徒手打开。热量非常高且永不变质，脱水+20%",
         "Italian": "Un vero salvavita. Il miele fornisce una quantità generosa di calorie e non va mai male."
     },
     "GAMEPLAY_HotCocoaBag": {
@@ -373,6 +394,7 @@
         "Japanese": "ホットココア用ココアのパック。マシュマロ入り。",
         "Spanish (Spain)": "Un paquete usado para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan bir paket. Şimdi marshmallow ile.",
+        "Simplified Chinese":"用于冲泡热可可",
         "Italian": "Una bustina usata per fare la cioccolata calda. Ora con marshmallows."
     },
     "GAMEPLAY_HotCocoaBox": {
@@ -384,7 +406,7 @@
         "Turkish": "Sıcak Kakao Kutusu",
         "Korean": "핫초코 박스",
         "Italian": "Scatola di Cioccolata Calda",
-        "Simplified Chinese": "热可可盒",
+        "Simplified Chinese": "盒装热可可",
         "Japanese": "ホットココアの箱",
         "Spanish (Spain)": "Caja de cacao en polvo"
     },
@@ -396,6 +418,7 @@
         "Japanese": "ホットココア用のパックが詰まった箱。マシュマロ入り。",
         "Spanish (Spain)": "Una caja llena de paquetes para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan paketlerle dolu bir kutu. Şimdi marshmallow ile",
+        "Simplified Chinese":"内含8份可可粉",
         "Italian": "Una scatola piena di bustine usate per fare la cioccolata calda. Ora con marshmallows."
     },
     "GAMEPLAY_HotCocoaBoxStackSingle": {
@@ -445,6 +468,7 @@
         "Japanese": "あなたも大好きな美味しいホットココアのカップ。マシュマロ入り。",
         "Spanish (Spain)": "Una deliciosa taza de tu chocolate caliente favorito. Ahora con malvaviscos.",
         "Turkish": "En sevdiğiniz sıcak kakaodan lezzetli bir fincan. Şimdi marshmallow ile.",
+        "Simplified Chinese":"一杯美味的热可可供您品尝。口渴恢复35%",
         "Italian": "Una deliziosa tazza riempita con la tua cioccolata calda preferita. Ora con marshmallows."
     },
     "GAMEPLAY_ModChocolateBar": {
@@ -455,6 +479,7 @@
         "Japanese": "チョコレートバー",
         "Spanish (Spain)": "Tableta de chocolate",
         "Turkish": "Çikolata Bar",
+        "Simplified Chinese":"黑巧克力",
         "Italian": "Barra di Cioccolato"
     },
     "GAMEPLAY_ModChocolateBarDescription": {
@@ -465,6 +490,7 @@
         "Japanese": "大きなチョコレートバー。コーヒー入りなのでちょっとだけ元気が出る。",
         "Spanish (Spain)": "Una barra de chocolate grande ¡Ahora con un poco de café para ese impulso extra!",
         "Turkish": "Büyük bir çikolata barı. Şimdi o küçük destek için kahve ile yapıldı!",
+        "Simplified Chinese":"旅人的最佳零食，富含咖啡因。脱水+5%，疲劳值恢复3%",
         "Italian": "Una grossa barra di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
     },
     "GAMEPLAY_ModSyrup": {
@@ -475,6 +501,7 @@
         "Japanese": "ハチミツ入りメープルシロップ",
         "Spanish (Spain)": "Sirope de arce con miel",
         "Turkish": "Akçaağaç Balı Şurubu",
+        "Simplified Chinese":"枫糖浆",
         "Italian": "Sciroppo d'Acero con Miele"
     },
     "GAMEPLAY_ModSyrupDescription": {
@@ -485,6 +512,7 @@
         "Japanese": "普通のメープルシロップとは違います。ハチミツの風味が効いています！ \nメープルシロップは決して腐りません！",
         "Spanish (Spain)": "No es tu sirope corriente. Enriquecido con miel \n¡Nunca caducará!",
         "Turkish": "Normal şurup değil. Bal aromalı!\nAkçaağaç şurubu asla bozulmaz!",
+        "Simplified Chinese":"美味的枫糖浆比游戏里的更具营养价值且永不变质。脱水+10%",
         "Italian": "Non è un sciroppo regolare. Infuso con sapori di miele!\nSciroppo d'acero non andrà mai male!"
     },
     "GAMEPLAY_MountainSoda": {
@@ -495,6 +523,7 @@
         "Japanese": "マウンテンソーダ",
         "Spanish (Spain)": "Sidra Mountain",
         "Turkish": "Maden Suyu",
+        "Simplified Chinese":"尖峰苏打水",
         "Italian": "Soda di Cidro della Montagna"
     },
     "GAMEPLAY_MountainSodaDescription": {
@@ -506,7 +535,7 @@
         "Turkish": "Maden Suyu. Bol magnezyum içerir.",
         "Korean": "산이 만들어 낸 청량함.",
         "Italian": "Fatta in montagna. Fresca di montagna.",
-        "Simplified Chinese": "山造。山鲜。",
+        "Simplified Chinese": "山造，山鲜。",
         "Japanese": "山で作られ新鮮そのもの。",
         "Spanish (Spain)": "Producto de montaña. Frescor de montaña."
     },
@@ -531,6 +560,7 @@
         "Japanese": "交じりっけなしの白飯、味気ない -- でもカロリーは十分だ。",
         "Spanish (Spain)": "Arroz blanco cocido. Un poco insipido, pero aporta muchas calorías.",
         "Turkish": "Saf pişmiş beyaz pirinç, biraz sıkıcı ama iyi kalori sağlıyor.",
+        "Simplified Chinese":"煮熟的白米饭非常适合充饥，尽管味道很淡，但热量很高。口渴恢复5%",
         "Italian": "Riso bianco cotto in acqua -- piuttosto noioso ma fornisce una buona quantità di calorie. Nutriente e senza tempo."
     },
     "GAMEPLAY_RiceRaw": {
@@ -554,6 +584,7 @@
         "Japanese": "世界中で幅広く消費されている食品の一つ。 \n食べる前に水を加えて調理する必要があります。",
         "Spanish (Spain)": "Una de las comidas más consumidas en el planeta. \nNecesita cocerse antes de comerlo: Una parte de arroz, dos de agua.",
         "Turkish": "Dünyada en çok tüketilen gıdalardan biri. Yenilebilmesi için önce pişirilmesi gerekiyor: bir ölçü pirinç ve iki ölçü su.",
+        "Simplified Chinese":"长粒米是世界上最常见的主食之一。无法生食，只能烹煮。直接烹煮需0.5L水，融化+烹煮不需要水",
         "Italian": "Uno dei cibi più ampiamente consumato nel mondo.\nBisogna cuocerlo prima di poterlo mangiare: una parte riso e due parti acqua."
     },
     "GAMEPLAY_SPAM": {
@@ -564,6 +595,7 @@
         "Japanese": "スパム缶",
         "Spanish (Spain)": "BANG",
         "Turkish": "BLAM",
+        "Simplified Chinese":"斯帕姆午餐肉罐头",
         "Italian": "BLAM"
     },
     "GAMEPLAY_SPAMDescription": {
@@ -574,6 +606,7 @@
         "Japanese": "缶詰のハム。安っぽくて単純な食品だけど、いざという時は役に立つ。",
         "Spanish (Spain)": "Jamón cocido enlatado. Barato, simple, is servirá en un apuro.",
         "Turkish": "Rendelenmiş konserve jambon. Acil bir durumuda vücuda yeterli besin sağlar.",
+        "Simplified Chinese":"猪肉火腿罐头，简单实惠。长途旅行时非常适合随身携带，可徒手开盖不损失卡路里。脱水+5%",
         "Italian": "Prosciutto tagliato e conservato in lattina. Un gusto acquisito ma economico, semplice e andrà bene in un attimo."
     },
     "GAMEPLAY_VodkaBottle": {
@@ -585,7 +618,7 @@
         "Turkish": "Votka Şişesi",
         "Korean": "보드카",
         "Italian": "Bottiglia di Vodka",
-        "Simplified Chinese": "伏特加瓶",
+        "Simplified Chinese": "伏特加",
         "Japanese": "ウオッカの瓶",
         "Spanish (Spain)": "Botella de vodka"
     },
@@ -597,6 +630,7 @@
         "Japanese": "強い酒。一部の地域で作られている。あまりお目にかかれない。",
         "Spanish (Spain)": "Una botella de las fuertes. Destilado local. Un hallazgo raro.",
         "Turkish": "Sert şeylerden bir şişe. Yerel olarak damıtılmış. Biraz nadir bir manzara.",
+        "Simplified Chinese":"属烈性酒，感觉不够刺激，想体验濒死视觉就多喝点。建议一次喝1/4，酒精含量40%，口渴恢复30%",
         "Italian": "Una bottiglia di roba forte. Distillata localmente. Uno spettacolo alquando raro."
     },
     "GAMEPLAY_WhiskyFlask": {
@@ -608,7 +642,7 @@
         "Turkish": "Konyak",
         "Korean": "힙 플라스크",
         "Italian": "Fiaschetta",
-        "Simplified Chinese": "酒壶",
+        "Simplified Chinese": "威士忌酒壶",
         "Japanese": "ヒップフラスク",
         "Spanish (Spain)": "Petaca"
     },
@@ -620,6 +654,7 @@
         "Japanese": "ウィスキーのような香りだ……。 \n刻まれている模様は謎めいた場所を連想させる。",
         "Spanish (Spain)": "Huele a whisky... \nEl grabado metálico alude a un misterioso lugar.",
         "Turkish": "Viski gibi kokuyor... \nMetal ikonografi gizemli bir yeri ima ediyor.",
+        "Simplified Chinese":"闻起来像威士忌，喝上一小口来缓解冻僵的手指",
         "Italian": "Odora di Whisky... \nL'iconografia del metallo allude a un posto misterioso."
     },
     "GAMEPLAY_WineBottle": {
@@ -631,7 +666,7 @@
         "Turkish": "Şarap Şişesi",
         "Korean": "병 와인",
         "Italian": "Bottiglia di Vino",
-        "Simplified Chinese": "酒瓶",
+        "Simplified Chinese": "红酒",
         "Japanese": "ワインボトル",
         "Spanish (Spain)": "Botella de vino"
     },
@@ -644,7 +679,7 @@
         "Turkish": "Büyük kutlama için bir şişe şarap. Bir seferde çok fazla içmeyin.",
         "Korean": "축배를 들기위한 와인 한 병. 한 번에 너무 많이 마시진 마세요",
         "Italian": "Una bottiglia di vino per quell'occasione speciale. Non berne troppo in una volta.",
-        "Simplified Chinese": "为那个盛大的庆祝活动准备一瓶酒。不要一次喝太多。",
+        "Simplified Chinese":"上等的红酒，为盛大庆典而特备的。最佳解渴饮料，但不建议过量饮用，容易上头。酒精含量15%，口渴恢复50%",
         "Japanese": "大きなお祝いのために用意されたワイン。高級品だがめったに見かけない。",
         "Spanish (Spain)": "Una botella de vino perfecta para una gran ocasión. Rara y de gran calidad."
     },
@@ -656,6 +691,7 @@
         "Japanese": "ハチミツ入りシリアル",
         "Spanish (Spain)": "POP's",
         "Turkish": "Ballı Gevrek",
+        "Simplified Chinese": "蜂蜜谷物",
         "Italian": "POP's"
     },
     "GAMEPLAY_CerealHoneyDescription": {
@@ -666,6 +702,7 @@
         "Japanese": "ハチミツとトウモロコシで作られた甘いシリアル。",
         "Spanish (Spain)": "Cereales dulces azucarados, hechos con miel y maiz.",
         "Turkish": "Bal ve mısırla yapılan tatlı, şekerli bir tahıl gevreği.",
+        "Simplified Chinese": "一种用蜂蜜和玉米做成的甜的含糖谷物",
         "Italian": "Cereali dolci e zuccherati fatti con miele e mais."
     },
     "GAMEPLAY_CerealWholeGrain": {
@@ -676,6 +713,7 @@
         "Japanese": "小麦全粒粉のシリアル",
         "Spanish (Spain)": "Crujientes Fiberwheat",
         "Turkish": "Lifli Buğday Ezmesi",
+        "Simplified Chinese": "麦片",
         "Italian": "Fiberwheat Croccanti"
     },
     "GAMEPLAY_CerealWholeGrainDescription": {
@@ -686,6 +724,7 @@
         "Japanese": "とてもドライで歯ごたえあり。意外と栄養分がある。",
         "Spanish (Spain)": "Extremadamente secos y crujientes. Sorprendentemente nutritivos.",
         "Turkish": "Son derece kuru ve gevrek. Şaşırtıcı derecede besleyici",
+        "Simplified Chinese": "又干又脆，但意外的很有营养的营养",
         "Italian": "Estremamente secchi e croccanti. Sorprendentemente nutrienti."
     },
     "GAMEPLAY_CatFoodSmall": {
@@ -696,6 +735,7 @@
         "Japanese": "ツナ缶",
         "Spanish (Spain)": "Lata de atún",
         "Turkish": "Ton Balığı",
+        "Simplified Chinese": "小份猫粮",
         "Italian": "Lattina di Tonno"
     },
     "GAMEPLAY_CatFoodSmallDescription": {
@@ -706,6 +746,7 @@
         "Japanese": "小さなツナ缶",
         "Spanish (Spain)": "Una pequeña porción de atún desmenuzado.",
         "Turkish": "Küçük bir porsiyon ton balığı.",
+        "Simplified Chinese": "一小片金枪鱼",
         "Italian": "Una piccola porzione di tonno in fiocchi."
     },
     "GAMEPLAY_FlourBag": {
@@ -716,6 +757,7 @@
         "Japanese": "小麦粉の袋",
         "Spanish (Spain)": "Saco de harina",
         "Turkish": "Bir paket un",
+         "Simplified Chinese": "袋装白面粉",
         "Italian": "Sacco di Farina Bianca"
     },
     "GAMEPLAY_FlourBagDescription": {
@@ -726,6 +768,7 @@
         "Japanese": "ふわふわしていてお菓子作りに最適です。生で食べるのはお勧めしません。",
         "Spanish (Spain)": "Esponjosa y lista para hornear. Consumición en crudo no recomendada.",
         "Turkish": "Kabarık ve pişirmeye hazır. Çiğ tüketim tavsiye edilmez.",
+        "Simplified Chinese": "蓬松而柔软的面粉，不建议直接生吃",
         "Italian": "Soffice ed economica. Consumo crudo non consigliato."
     },
     "GAMEPLAY_Jalapeno": {
@@ -736,6 +779,7 @@
         "Japanese": "ハラペーニョの缶詰",
         "Spanish (Spain)": "Jalapeños enlatados",
         "Turkish": "Jalepano Konservesi",
+        "Simplified Chinese": "Jalapenos罐头",
         "Italian": "Lattina di Jalapenos"
     },
     "GAMEPLAY_JalapenoDescription": {
@@ -746,6 +790,7 @@
         "Japanese": "酸っぱくてスパイシー。食べると喉が渇く。",
         "Spanish (Spain)": "Encurtidos y picantes. Te darán sed.",
         "Turkish": "Turşu ve baharatlı. Seni susatacak.",
+        "Simplified Chinese": "又酸又辣，很容易让人口渴",
         "Italian": "Piccante e sottaceto. Ti farà venire sete."
     },
     "GAMEPLAY_CupNoodles": {
@@ -755,6 +800,7 @@
         "Japanese": "カップラーメン",
         "Spanish (Spain)": "Tazón de ramen",
         "Turkish": "Bir Bardak Ramen",
+        "Simplified Chinese": "一杯拉面",
         "Italian": "Bicchiere di Ramen"
     },
     "GAMEPLAY_CupNoodlesDescription": {
@@ -764,6 +810,7 @@
         "Japanese": "小さなカップ入りのインスタント麺。鍋で調理するとより美味しく食べられる。",
         "Spanish (Spain)": "Un pequeño tazón de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato.",
         "Turkish": "Küçük bir bardak bayat hazır erişte. Daha iyi bir yemek için bir tencerede pişirilebilir.",
+        "Simplified Chinese": "小杯拉面，加热烹饪后更美味。",
         "Italian": "Un piccolo bicchiere di cartone con tagliatelle istantanee stantie. Può essere cotto in una pentola per un pasto migliore."
     },
     "GAMEPLAY_CupNoodlesOpen": {
@@ -773,6 +820,7 @@
         "Japanese": "カップラーメン（調理済み）",
         "Spanish (Spain)": "Tazón de ramen (Cocinado)",
         "Turkish": "Bir Bardak Ramen (Pişmiş)",
+        "Simplified Chinese": "一杯拉面（已煮熟）",
         "Italian": "Bicchiere di Ramen (Cotto)"
     },
     "GAMEPLAY_CupNoodlesOpenDescription": {
@@ -782,6 +830,7 @@
         "Japanese": "調理済みのカップラーメン。よいひと時を！",
         "Spanish (Spain)": "Un pequeño tazón de fideos intantáneos cocinados ¡Que aproveche!",
         "Turkish": "Küçük bir bardak pişmiş hazır erişte. Eğlence!",
+        "Simplified Chinese": "一杯煮熟的拉面，享受美味吧！",
         "Italian": "Un piccolo bicchiere di cartone con tagliatelle istantanee cotte. Goditele!"
     },
     "GAMEPLAY_SoyRamen": {
@@ -791,6 +840,7 @@
         "Japanese": "インスタントラーメン",
         "Spanish (Spain)": "Paquete de ramen",
         "Turkish": "Bir Paket Ramen",
+        "Simplified Chinese": "一包拉面",
         "Italiano": "Pachetto di Ramen"
     },
     "GAMEPLAY_SoyRamenDescription": {
@@ -800,6 +850,7 @@
         "Japanese": "袋入りのインスタントラーメン。鍋で調理するとより美味しく食べられる。",
         "Spanish (Spain)": "Un pequeño paquete de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato.",
         "Turkish": "Küçük bir paket bayat hazır erişte. Daha iyi bir yemek için tencerede pişirilebilir.",
+        "Simplified Chinese": "小包拉面，加热烹饪后更美味",
         "Italian": "Un piccolo pachetto di tagliatelle istantanee stantie. Può essere cotto in una pentola per un pasto migliore."
     },
     "GAMEPLAY_SoyRamenCooked": {
@@ -809,6 +860,7 @@
         "Japanese": "ラーメン",
         "Spanish (Spain)": "Bol de ramen",
         "Turkish": "Bir Kase Ramen",
+        "Simplified Chinese": "一碗拉面",
         "Italian": "Ciotola di Ramen"
     },
     "GAMEPLAY_SoyRamenCookedDescription": {
@@ -818,6 +870,7 @@
         "Japanese": "調理済みのインスタントラーメン。醤油味。",
         "Spanish (Spain)": "Un bol de fideos instantáneos. Huelen a salsa de soja.",
         "Turkish": "Bir kase pişmiş hazır erişte - soya sosu kokuyor.",
+        "Simplified Chinese": "一碗煮熟的拉面，有酱油的味道",
         "Italian": "Una ciotola di tagliatelle istantanee cotte - odora di salsa di soia."
     },
     "GAMEPLAY_RandomLargeCannedFood": {
@@ -828,7 +881,7 @@
         "Turkish": "Rastgele Büyük Konserve Gıda",
         "Korean": "무작위 대용량 통조림",
         "Italian": "Grossa Confezione di Cibo in Scatola Casuale",
-        "Simplified Chinese": "随机大罐头",
+        "Simplified Chinese": "随大型随机罐头食品机大罐头",
         "Japanese": "ランダム配置される缶詰（大）"
     },
     "GAMEPLAY_RandomLargeCannedFoodDescription": {
@@ -872,7 +925,7 @@
         "Turkish": "Rastgele Uzun Soda Kutusu",
         "Korean": "무작위 큰 소다 캔.",
         "Italian": "Bevanda in Lattina Alta Casuale",
-        "Simplified Chinese": "随机高苏打罐",
+        "Simplified Chinese": "大容量随机苏打饮料",
         "Japanese": "ランダム配置される缶飲料"
     },
     "GAMEPLAY_RandomSodaTallDescription": {
@@ -883,7 +936,7 @@
         "Turkish": "Uzun soda kutuları için bir yumurtlama noktası.",
         "Korean": "무작위 큰 소다 캔 아이템의 스폰 지점입니다.",
         "Italian": "Punto di generazione per bevende in lattina alte.",
-        "Simplified Chinese": "高汽水罐的刷新点。",
+        "Simplified Chinese": "大容量苏打饮料的刷新点。",
         "Japanese": "缶飲料の配置されるポイント。"
     },
     "GAMEPLAY_RandomSmallPacket": {
@@ -894,7 +947,7 @@
         "Turkish": "Rastgele Küçük Paket",
         "Korean": "무작위 소용량 분말팩",
         "Italian": "Bustina Casuale",
-        "Simplified Chinese": "随机小包",
+        "Simplified Chinese": "随机小食品包",
         "Japanese": "ランダム配置される粉末飲料パック"
     },
     "GAMEPLAY_RandomSmallPacketDescription": {
@@ -905,7 +958,7 @@
         "Turkish": "Küçük yiyecek paketleri için bir yumurtlama noktası.",
         "Korean": "무작위 소용량 분말팩 아이템의 스폰 지점입니다.",
         "Italian": "Punto di generazione per bustine di cibo.",
-        "Simplified Chinese": "小食品包的刷新点。",
+        "Simplified Chinese": "小食品包的刷新点",
         "Japanese": "粉末飲料のパックが配置されるポイント"
     },
     "GAMEPLAY_RandomCerealBox": {
@@ -916,7 +969,7 @@
         "Turkish": "Rastgele Tahıl Kutusu",
         "Korean": "무작위 시리얼 박스",
         "Italian": "Scatola di Cereali Casuale",
-        "Simplified Chinese": "随机麦片盒",
+        "Simplified Chinese": "随机盒装麦片",
         "Japanese": "ランダム配置されるシリアルの箱"
     },
     "GAMEPLAY_RandomCerealBoxDescription": {
@@ -927,7 +980,7 @@
         "Turkish": "Tahıl kutuları için bir yumurtlama noktası.",
         "Korean": "무작위 시리얼 박스의 스폰 지점입니다.",
         "Italian": "Punto di generazione per le scatole di cereali.",
-        "Simplified Chinese": "谷物盒的生成点。",
+        "Simplified Chinese":"盒装麦片的刷新点",
         "Japanese": "シリアルの箱の配置されるポイント。"
     },
     "GAMEPLAY_RandomLiquorBottle": {
@@ -938,7 +991,7 @@
         "Turkish": "Rastgele Likör Şişesi",
         "Korean": "무작위 주류 병",
         "Italian": "Bottiglia di Liquore Casuale",
-        "Simplified Chinese": "随机酒瓶",
+        "Simplified Chinese": "随机瓶装酒",
         "Japanese": "ランダム配置される酒瓶"
     },
     "GAMEPLAY_RandomLiquorBottleDescription": {
@@ -949,7 +1002,7 @@
         "Turkish": "İçki şişeleri için bir yumurtlama noktası.",
         "Korean": "무작위 주류 병의 스폰 지점입니다.",
         "Italian": "Punto di generazione per bottiglie di liquore.",
-        "Simplified Chinese": "酒瓶的刷新点。",
+        "Simplified Chinese": "瓶装酒的刷新点。",
         "Japanese": "酒瓶の配置されるポイント。"
     },
     "GAMEPLAY_NOTE_TITL": {
@@ -960,6 +1013,7 @@
         "Russian": "Записка от работника заправки Квонсета",
         "Spanish (Spain)": "Nota de un trabajador del taller Quonset",
         "Turkish" : "Bir Quonset Benzin İstasyonu Çalışanından Not",
+        "Simplified Chinese":"匡西特加油站员工的纸条",
         "Italian": "Nota da un Impiegato della Stazione di Servizio Quonset"
     },
     "GAMEPLAY_NOTE_DESC": {
@@ -970,6 +1024,7 @@
         "Russian": "Записка, оставленная работником заправки Квонсета.",
         "Spanish (Spain)": "Una nota escrita por un trabajador del taller Quonset.",
         "Turkish" : "Benzin istasyonuda çalışan bir kişi tarafından yazılmış not.",
+        "Simplified Chinese":"加油站员工写的纸条",
         "Italian": "Una nota scritta da un Impiegato della Stazione di Servizio Quonset."
     },
     "GAMEPLAY_NOTE_LORE": {
@@ -980,6 +1035,7 @@
         "Japanese": "シリアル12箱、ハチミツの瓶が4箱、そしてウオッカ？のパッケージが二つ。私はこれらの品物を「カイ」と呼ばれている地元の業者から入手している。彼は滅多に来ないから、入手には数週間はかかるだろう。その上、一体全体何がここで起こっているのか？ここには電力も、島外との通信も何一つない。物資の補充はどうすればいいんだ？\n\nもしプレザント・バレー農場の主人と話せたなら……彼はどうしようもないバカだがこの手のことはよく心得ている、たとえ、彼にそうする義務が一切なかったとしてもだ。\n\n\nひとまず、家に帰るつもりだ。\n\n*ここに署名がある。 'G.ハルキアス' ",
         "Spanish (Spain)": "Doce cajas de cereales, cuatro tarros de miel, y un par de paquetes de... ¿Botellas de vodka? Tengo que importar esta mercancía a través de mi distribuidor local cuyo apodo es 'Kai', lo que sea que signifique eso. Raramente se pasa por aquí, le va a llevar semanas, meses incluso. Además ¿Qué cojones está pasando ahí fuera? No hay luz, ni comunicación de fuera. ¿Cómo demonios voy a reponer todo esto? \n\n Si pudiese comunicarme con el anciano de la granja en Valle Apacible... Es un gilipollas de cuidado pero deja buena propina, teniendo en cuenta que ni siquiera hace falta. \n\n\nPor ahora, me voy a casa. \n\n*Se puede ver una firma a pie de página; 'G. Chalkias'.",
         "Turkish" : "On iki mısır gevreği kutusu, dört bal kavanozu ve birkaç paket... votka şişesi? Bu malları, takma adı 'Kai' olan yerel satıcımdan ithal etmeliyim, bu ne anlama geliyorsa. Nadiren uğrar, aylar olmasa da haftalar alır. Ayrıca, orada neler oluyor? Güç yok, dışarıdan iletişim yok. Nasıl stok yapacağım? \n\nKeşke Pleasant Valley Çiftlik Evi'ndeki Yaşlı Adam'la iletişim kurabilseydim... O tam bir sik kafalı ama buna hiç gerek olmadığı halde oldukça iyi bahşiş veriyor. \n\n\nŞimdilik eve gideceğim. \n\n*burada bir imza görülecektir; 'G. Chalkias'.",
+        "Simplified Chinese":"六盒蜂蜜早餐麦片，四盒全谷麦片，还有打包的伏特加?从俄罗斯进口这些商品需要几周甚至几个月。再有，外面到底发生了什么?没有电，也无法和外界取得联系。我怎么补货啊?\n\n要是能联系上怡人山谷农庄的的老头就好了……人傻钱多，小费出手阔绰。尽管他根本没必要这么做。\n\n\n现在，我要回家了。\n\n*签名;“g . Chalkias”",
         "Italian": "Dodici scatole di cereali, quattro barattoli di miele e un paio di pacchetti di... bottigle di vodka? Devo importare questi beni dal mio rivenditore locale di cui il soppranome va di 'Kai' qualsiasi cosa significa. Lui raramente passa, ci vorranno settimane se non mesi. Oltretutto, cosa diavolo sta succedendo là fuori? Non c'è corrente, nessuna communicazione dall'esterno. Come diavolo farò il rifornimetno? \n\nSe solo potessi communicare con il Vecchio della Fattoria Pleasant Valley... È uno stronzo ma le sue mancie sono buone, anche se non deve farlo per forza. \n\n\n Per ora, andrò a casa. \n\n*Si vede una firma; 'G. Chalkias'."
     },
     "GAMEPLAY_NOTE_TITL_2": {
@@ -990,6 +1046,7 @@
         "Russian": "Записка от работника сельского магазина",
         "Spanish (Spain)": "Nota de un empleado de una tienda rural",
         "Turkish" : "Bir Kırsal Mağaza Çalışanından Not",
+        "Simplified Chinese":"乡村商店员工的纸条",
         "Italian": "Nota da un Impiegato del Negozio Rurale"
     },
     "GAMEPLAY_NOTE_DESC_2": {
@@ -1000,6 +1057,7 @@
         "Russian": "Записка, написанная работником сельского магазина.",
         "Spanish (Spain)": "Una nota escrita por un empleado de la tienda del Valle Apacible.",
         "Turkish" : "Kırsal Mağazadaki bir çalışan tarafından yazılmış not.",
+        "Simplified Chinese":"乡村商店员工写的纸条",
         "Italian": "Una nota scritta da un Impiegato del Negozio Rurale."
     },
     "GAMEPLAY_NOTE_LORE_2": {
@@ -1010,6 +1068,7 @@
         "Japanese": "ついさっき立ち寄った怪しい男がうちのツナ缶がやつら（……狼？）を追い払ってるのだ、と言っていた。その通りだとは思えないが、我々がこのあたりで狼に出くわしてないのは確かだ。けれども、あいつらの吠え声を時々聞くこと自体は奇妙なことに思える。なぜなら、連中が住宅地に近づくことは皆無ではないが滅多にないことだからだ。\n\nそれはそうと、沿岸のハイウェイで仕事をしている私の同僚に用事がある（酒が十分手に入らないことについてだろうか？）のに会えない、と農場主が愚痴っていたことについては同意できない。変人め、それより苗床の様子でも見ているべきだ。\n\n\n諸々の事情により私の貨物はいまだ到着していない。数日間にわたる停電を経験し、非常用発電機を入手することになった今では驚くようなことではない。だが私は貨物が速やかに届くであろうことを願っている。\n私はこれから山間の町へ行ったもう一人の同僚のもとを訪れて、支払いと彼の難渋している状況を確かめるつもりだ。",
         "Spanish (Spain)": "Un tipo un poco turbio acaba de venir para decirme que mis latas de atún asusta... a qué ¿Lobos?. No sé de que iba pero aquí no hay lobos. Aunque, me parece haber escuchado sus aullidos de vez en cuando, lo cual me parece un poco raro ya que raramente se acercan aquí. \n\nEn cualquier caso, no sé que estará haciendo mi compañero en la Autovía Litoral, pero el anciano se ha estado quejando de que sus necesidades no están cubiertas ¿Algo sobre que no está recibiendo suficientes bebidas alcohólicas, o algo así? Que persona más extraña, debería estar en una residencia. \n\n\nPor alguna razón my cargamento no ha llegado todavía. Tampoco es una sorpresa porque la electricidad lleva cortada unos días y tengo un generador de emergencia. Espero que venga lo antes posible. \nVoy a hacerle una visita a mi compañera en Milton, a ver cómo le va.",
         "Turkish" : "Az önce gölgeli bir adam uğradı ve ton balığı konservemin korkuttuğunu söyledi, hangi kurtlar? Ne kullandığından emin değilim ama buralarda kurt yok. Bununla birlikte, zaman zaman ulumalarını duydum, bu bana garip geldi çünkü yerleşim yerlerine nadiren yaklaşırlar, hatta hiç yaklaşmazlar. \n\nHer neyse, meslektaşımın Sahil Yolu'nda ne yaptığından emin değilim ama Yaşlı Adam ihtiyaçlarının karşılanmadığından, yeterince alkollü içki almadığından şikayet ediyor? Ne tuhaf bir insan, onun yerine çocuk odasında olmalı. \n\n\nNedense kargom henüz ulaşmadı. Güç birkaç gündür kesildiğinden ve bir yedek jeneratör aldığımdan beri sürpriz değil. Umarım yakında gelir. \nMountain Town'daki başka bir meslektaşımı ziyaret edeceğim ve nasıl dayandığına bakacağım.",
+        "Simplified Chinese":"一个可疑的家伙进店后说我储备的猫粮把什么东西给吓跑了，难道是狼？我不知道他在搞什么鬼，但我们这里没有狼。然而，我确实不时听到它们的叫声，这的确很奇怪，因为它们很少接近定居点。\n\n好吧，我不知道我的同事在沿海公路那边忙什么，那的老人一直在抱怨他的需求没有得到满足，或者说没有获得充足的酒水饮料？真是矫情，他应该去托儿所。\n\n\n不知什么原因，我的货还没到。这并不奇怪，因为停电好几天了，我有一个备用发电机。希望能尽快到来。。\n我要去米尔顿小镇拜访我的另一位同事，看看他过得怎么样。",
         "Italian": "Un tipo sospettoso è appena passato e mi ha detto che le mie lattine di tonno spaventano via, cosa, lupi? Non sono certo su cosa intende ma non abbiamo lupi da queste parti. Però, ho sentito il loro ululare di volta in volta il che appare strano per me siccome loro raramente se mai si avvicinano agli insediamenti. \n\nComunque, non sono sicuro cosa il mio collega sta facendo lì nell'Autostrada Costiera, ma il Vecchio si è lamentato di qualcosa riguardante i sui bisogni non soddisfati, qualcosa a proposito di non aver ricevuto abbastanta bevande alcoliche? Che persona strana, dovrebbe invece essere in un asilo nido. \n\n\nPer qualche motivo la mia spedizione non è ancora arrivata. Non mi sorprende visto che la corrente è assente già da qualche giorno e ho un generatore di riserva. Spero che arrivi abbastanza presto. \nAndrò a visitare un'altro mio collega su nel Villaggio di Montagna a vedere come se la cava."
     },
     "GAMEPLAY_NOTE_TITL_3": {
@@ -1020,6 +1079,7 @@
         "Russian": "Записка от работника минимаркета",
         "Spanish (Spain)": "Nota de una empleada de una tienda de ultramarinos",
         "Turkish" : "Bir market çalışanından not",
+        "Simplified Chinese":"便利店员工的纸条",
         "Italian": "Nota da un Impiegato del Negozio di Generi Alimentari"
     },
     "GAMEPLAY_NOTE_DESC_3": {
@@ -1030,6 +1090,7 @@
         "Russian": "Записка, оставленная работником минимаркета",
         "Spanish (Spain)": "Una nota escrita por una empleada de la tienda de ultramarinos de Milton",
         "Turkish" : "Marketteki bir çalışan tarafından yazılmış not",
+        "Simplified Chinese":"便利店员工写的纸条",
         "Italian": "Una nota scritta da un impiegato del Negozio di Generi Alimentari"
     },
     "GAMEPLAY_NOTE_LORE_3": {
@@ -1040,6 +1101,7 @@
         "Russian": "Я только что доставил десять комплектов из двадцати банок и пластиковых бутылок напитка 'Покинутые духи' по заказу мистера Смита из Покинутого ангара. \nОни там с ума сошли или пристрастились к этому напитку? Да, бренд случайно назвал напиток 'покинутым', как и этот аэродром, но это они переусердствовали. У меня почти закончились запасы 'Покинутых духов', и я не знаю, когда получу следующую доставку из-за этого дурацкого отключения электричества. \n\nЭта старая ведьма пристает ко мне из-за того, что у нее заканчиваются коробки с какао. Как будто меня это волнует, в придачу со всеми другими проблемами с поставками. \n\n\nМожет быть, мне стоит попросить моего старого приятеля Халкия поделиться чем-нибудь из его товаров.",
         "Spanish (Spain)": "Acabo de enviar diez reservas de veinte latas y botellas de Espíritus Olvidados, una petición del señor Smith, el del Aeródromo Olvidado. \n ¿Están majaras o adictos a esta mierda? Sí, da la casualidad que la el nombre de la marca se parece al del aeródromo y tal, pero creo que se están`pasando. Ya casi no me quedan reservas de Espíritus Olvidados I no tengo ni idea de cuando llega el siguiente paquete por culpa del puñetero corte de luz. \n\nLa vieja arpía esta me está tocando las narices con que su reserva de cacao se está acabando, como si me importase lo más mínimo, teniendo en cuenta el resto de problemas que tengo ahora. \n\n\nQuizás le pregunte a mi viejo amigo, Chalkias, a ver si puede compartir de lo suyo mientras tanto.",
         "Turkish" : "Az önce Forsaken Hangar'daki Bay Smith'in tedarik siparişi olan on stok yirmi kutu ve plastik Forsaken Spirits içeceği teslim ettim. \nDeli mi yoksa bu içkiye bağımlı mı? Evet, marka tesadüfen o havaalanının adını 'Forsaken Airfield' olarak paylaşıyordu ama abartıyorlar. Forsaken Spirits stoğum neredeyse bitmek üzere ve bu aptalca elektrik kesintisi yüzünden bir sonraki teslimatımı ne zaman alacağımı bilmiyorum. \n\nBu yaşlı cadı, sanki şu anda sahip olduğum tedarik sorunlarına ek olarak bunu yeterince önemsiyormuşum gibi, sıcak kakao kutularının bitmesi konusunda beni rahatsız ediyor. \n\n\nBelki de bu arada eski dostum Chalkias'tan mallarından bazılarını paylaşmasını istemeliyim.",
+        "Simplified Chinese":"我刚刚交付了一份来自被遗忘者机场史密斯先生的供应订单，共十批次20罐装和塑料装的被遗忘者鸡尾酒。\n他们为何如此疯狂迷恋这种饮料？也许是该品牌恰好与那个机场同名。但我感觉做的有点过了，这下几乎清空了鸡尾酒的库存，这该死的停电，我不知道什么时候能收到下一批货。\n\n这个老巫婆一直缠着我说她的盒装热可可快用完了，但我现在已经没有功夫关心她了，因为我的供应出了问题。\n\n\n也许我应该请我的老朋友Chalkias分享一些他的商品帮我度过难关。",
         "Italian": "Ho appena consegnato dieci scorte da venti bevande in lattine e plastiche di Spiriti Abbandonati, una scorta ordinata da Mr. Smith dall'Hangar abbandonato. \nSono pazzi o dipendenti da questa bevanda? Bhe sì, alla marca è successo di condividere il nome di quel 'Campo D'aviazione Abbandonato' ma stanno esagerando. Sono quasi a corto delle scorte di Spiriti Abbandonati e non so quando riceverò il prossimo rifornimento a colpa di questa stupida interruzione di corrente. \n\nQuesta vecchia strega mi sta importunando per esaurimento delle sue scorte di cioccolata calda come se me ne importasse abbastanza di questo oltre al problema della fornitura che ho proprio adesso. \n\n\nForse dovrei chiedere al mio vecchio amico, Chalkias, di condividere i suoi beni nel frattempo."
     },
     "GAMEPLAY_NOTE_TITL_4": {
@@ -1050,6 +1112,7 @@
         "Russian": "Записка Старика",
         "Spanish (Spain)": "Nota de un anciano",
         "Turkish" : "Yaşlı Adamdan Not",
+        "Simplified Chinese":"老人的血纸条",
         "Italian": "Nota del Vecchio"
     },
     "GAMEPLAY_NOTE_DESC_4": {
@@ -1060,6 +1123,7 @@
         "Russian": "Записка Старика. На записке видны пятна крови.",
         "Spanish (Spain)": "Nota escrita por un anciano. Está cubierta de sangre.",
         "Turkish" : "Yaşlı Adam tarafından yazılmış bir not. Kana bulanmış",
+        "Simplified Chinese":"老人写的一张纸条，上面沾满了血",
         "Italian": "Una nota scritta dal Vecchio. È macchiato di sangue."
     },
     "GAMEPLAY_NOTE_LORE_4": {
@@ -1070,6 +1134,8 @@
         "Russian": "Не стоило мне заказывать столько коробок с хлопьями и бутылок водки, когда я все время забываю купить бинты. В ближайшем магазине они закончились, так что мне нужно отправиться в Блэкрок, там единственный лазарет на этом проклятом острове. \n\nКстати, с каких это пор волки нападают на людей, как только увидят? Один из них укусил меня за руку, и выглядит это дело плохо! Я не могу полностью остановить кровотечение... Надо бы поторопиться. \n\n\nЕсли вы найдете эту записку, делайте, что хотите. Когда электричество вернется, я лечу обратно во Флориду. \n\nПо крайней мере, я буду иметь дело с сумасшедшими, а не с волками и медведями или лосями время от времени.",
         "Spanish (Spain)": "Jamás debería haber encargado tal cantidad de cajas de cereales y botellas de vodka cuando sigo olvidándome de comprar vendas. La tienda más cercana se ha quedado sin, así que tendré que ir a Rocanegra, ya que es el único lugar en esta maldita isla donde tienen una enfermería. \n\nHablando de eso ¿Desde cuándo los lobos atacan a la gente nada más verlos? ¡Uno me mordió en la mano y no tiene buena pinta! No puedo detener la hemorragia muy bien... más me vale ir rápido. \n\n\nSi encuentras esta nota, haz lo que te de la gana. Cuando vuelva la luz, me vuelvo a Florida. \n\nAl menos lidiaré con locos, y no con lobos, o el ocasional oso o alce.",
         "Turkish" : "Bandaj almayı unutup dururken asla büyük miktarda mısır gevreği kutusu ve votka şişesi sipariş etmemeliydim. En yakın mağazada kalmadı, bu yüzden Blackrock'a gitmeliyim, bu lanetli adadaki tek revire sahipler. \n\nBu arada, ne zamandan beri kurtlar insanlara gördükleri yerde saldırıyorlar? Biri elimi ısırdı ve kötü görünüyor! Kanamayı yeterince iyi durduramıyorum... Hızlı gitsen iyi olur. \n\n\nBu notu bulursanız, ne isterseniz yapın. Güç geri geldiğinde, Florida'ya geri uçuyorum. \n\nEn azından kurtlardan ve ara sıra ayı veya amerikan geyiğinden daha çılgın insanlarla uğraşıyor olacağım.",
+        "Simplified Chinese":"我就不应该订购大量的盒装麦片和伏特加导致我每次都忘记买绷带。我现在不得不去黑岩地区购买绷带，因为附近的商店都卖光了。在这该死的岛上那里有唯一的医务室。\n\n说到这儿，狼什么时候开始第一时间攻击人了?其中一只咬了我的手，看起来很糟糕!我不能很好地止血……动作要快。\n\n\n如果你发现了这张纸条，你想做什么随你便。等电力恢复了，我就飞回佛罗里达州。即使我要面对的是一群疯子，也好过这里的狼，熊和驼鹿。",
         "Italian": "Non ho dovuto ordinare una enorme quantità di scatole di cereali e bottiglie di vodka quando mi dimentico di comprare bende. Il negozio più vicino le ha esaurito quindi devo andare a Blackrock, loro hanno l'unica infermeria in questa maledetta isola. \n\nParlando di questo, da quando i lupi attaccano persone a vista adesso? Uno di loro mi ha morso la mano e ora non ha un bell'aspetto! Non posso fermare il sanguinamento abbastanza bene... Meglio andare veloce. \n\n\nSe trovi questa nota, fai qualunque cosa vuoi fare. Quando la corrente ritorna, tornero in Florida. \n\nAlmeno avrò a che fare con gente pazza che lupi e occasinalmente orsi e alci."
     }
 }
+    
