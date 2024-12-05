@@ -11,7 +11,7 @@
         "RequiredGear": [
             {
                 "Item": "GEAR_CookedMeatBear",
-                "Count": 8
+                "Count": 6
             },
             {
                 "Item": "GEAR_BurdockPrepared",
@@ -26,6 +26,10 @@
                 "Count": 3
             },
             {
+                "Item": "GEAR_1FirSeedBunchRoasted",
+                "Count": 3
+            },
+            {
                 "Item": "GEAR_cookingoil",
                 "Count": 4
             },
@@ -35,7 +39,7 @@
             }
         ],
         "RequiredPowder":[{"Powder":"POWDER_Flour","QuantityInKilograms":0.5}],
-		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":1}],
+		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":2}],
         "CraftedResult": "GEAR_CannedChili",
         "CraftedResultCount": 1,
         "DurationMinutes": 60,
