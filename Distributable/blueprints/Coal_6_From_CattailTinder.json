@@ -1,21 +1,23 @@
 {
-    "Name": "Trade_sell_4_BearHideDried",
+    "Name": "Coal_6_From_Firelog",
     "RequiredGear": [
         {
-            "Item": "GEAR_BearHideDried",
-            "Count": 1
+            "Item": "GEAR_CattailTinder",
+            "Count": 10
         }
     ],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
-    "RequiredTool": "",
-    "OptionalTools": [],
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
-    "CraftedResult": "GEAR_CashBundle",
-    "CraftedResultCount": 6,
-    "DurationMinutes": 1,
+    "CraftedResult": "GEAR_Coal",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 20,
     "CraftingAudio": "PLAY_HARVESTINGACORNS",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"

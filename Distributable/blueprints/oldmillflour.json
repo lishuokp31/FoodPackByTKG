@@ -1,6 +1,11 @@
 {
     "Name": "Old Mill Flour",
-    "RequiredGear": [{"Item": "GEAR_FlourBag", "Count":9}],
+    "RequiredGear": [
+        {
+            "Item": "GEAR_FlourBag",
+            "Count": 9
+        }
+    ],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
     "RequiredTool": "",
@@ -11,6 +16,6 @@
     "CraftedResultCount": 1,
     "DurationMinutes": 15,
     "CraftingAudio": "",
-    "AppliedSkill" : "None",
-    "ImprovedSkill" : "None"
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
 }

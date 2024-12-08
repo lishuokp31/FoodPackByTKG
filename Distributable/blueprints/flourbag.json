@@ -1,6 +1,11 @@
 {
     "Name": "Flour Bag",
-    "RequiredGear": [{"Item": "GEAR_Flour", "Count":1}],
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Flour",
+            "Count": 1
+        }
+    ],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
     "RequiredTool": "",
@@ -11,6 +16,6 @@
     "CraftedResultCount": 9,
     "DurationMinutes": 15,
     "CraftingAudio": "",
-    "AppliedSkill" : "None",
-    "ImprovedSkill" : "None"
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
 }

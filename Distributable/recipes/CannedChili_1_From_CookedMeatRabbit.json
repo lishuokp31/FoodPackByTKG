@@ -14,10 +14,6 @@
                 "Count": 12
             },
             {
-                "Item": "GEAR_BurdockPrepared",
-                "Count": 3
-            },
-            {
                 "Item": "GEAR_carrot",
                 "Count": 3
             },
@@ -26,11 +22,15 @@
                 "Count": 3
             },
             {
-                "Item": "GEAR_1FirSeedBunchRoasted",
-                "Count": 3
+                "Item": "GEAR_AcornShelled",
+                "Count": 4
             },
             {
-                "Item": "GEAR_cookingoil",
+                "Item": "GEAR_BurdockPrepared",
+                "Count": 2
+            },
+            {
+                "Item": "GEAR_CattailStalk",
                 "Count": 4
             },
             {
@@ -38,8 +38,26 @@
                 "Count": 1
             }
         ],
-        "RequiredPowder":[{"Powder":"POWDER_Flour","QuantityInKilograms":0.5}],
-		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":2}],
+        "RequiredPowder": [
+            {
+                "Powder": "POWDER_Flour",
+                "QuantityInKilograms": 0.25
+            },
+            {
+                "Powder": "POWDER_salt",
+                "QuantityInKilograms": 0.1
+            }
+        ],
+        "RequiredLiquid": [
+            {
+                "Liquid": "LIQUID_WaterPotable",
+                "VolumeInLitres": 2
+            },
+            {
+                "Liquid": "LIQUID_CookingOil",
+                "VolumeInLitres": 0.25
+            }
+        ],
         "CraftedResult": "GEAR_CannedChili",
         "CraftedResultCount": 1,
         "DurationMinutes": 60,

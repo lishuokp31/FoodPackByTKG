@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_CannedChili",
                             "DescriptionLocalizatonId" : "GAMEPLAY_CannedChiliDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.1,
+                            "WeightKG": 1.0,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Random",

@@ -14,7 +14,7 @@
     "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_CashBundle",
-    "CraftedResultCount": 4,
+    "CraftedResultCount": 10,
     "DurationMinutes": 1,
     "CraftingAudio": "PLAY_HARVESTINGACORNS",
     "AppliedSkill": "None",
