@@ -78,7 +78,7 @@
         "Turkish": "Acı Biber",
         "Korean": "칠리 통조림",
         "Italian": "Chili",
-        "Simplified Chinese": "辣味罐头",
+        "Simplified Chinese": "KP31炖肉罐头",
         "Japanese": "チリ缶",
         "Spanish (Spain)": "Chili"
     },
@@ -90,7 +90,7 @@
         "Japanese": "愛情たっぷり。体も温まる。心も落ち着く。",
         "Spanish (Spain)": "Delicioso. Cálido. Alimento para el alma.",
         "Turkish": "Besleyici. Bedeni ve ruhu ısıtır.",
-        "Simplified Chinese":"对于无辣不欢的人来说，该产品正适合你！用豆豉肉末和娘惹酱配制而成。可冷食也可开盖烹煮，脱水+10%",
+        "Simplified Chinese":"KP31神秘科技炖肉系列，多的快要冒出来的肉块，配上大块的胡萝卜、土豆、和牛蒡，文火慢炖而成，冬日远行的最佳搭档，抚慰你饥饿的身心。\n\n可永久保存。",
         "Italian": "Calorosa. Scaldante. Rilassante per l'anima."
     },
     "GAMEPLAY_CannedMangos": {
@@ -189,7 +189,7 @@
         "Japanese": "シチューの缶詰",
         "Spanish (Spain)": "Estofado",
         "Turkish": "Güveç",
-        "Simplified Chinese":"炖牛肉罐头",
+        "Simplified Chinese":"KP31炖菜罐头",
         "Italian": "Stufato"
     },
     "GAMEPLAY_CannedStewDescription": {
@@ -200,7 +200,7 @@
         "Japanese": "牛肉と野菜が入った愛情あふれる料理。理想の一品だ。",
         "Spanish (Spain)": "Un plato copioso con ternera y verduras. Una comida ideal.",
         "Turkish": "Sığır eti ve sebze ile doyurucu bir yemek. İdeal bir yemek.",
-        "Simplified Chinese":"罐装炖牛肉，保质期长，旅人的最佳食品。可冷食也可开盖烹煮。脱水+10%",
+        "Simplified Chinese":"KP31神秘科技炖菜系列，使用能各种蔬菜在工作台加工而成。0.1kg的重量却有着0.5个W的kcal，适合出远门时携带。\n\n可永久保存。",
         "Italian": "Un caloroso pasto con manzo e verdure. Un pasto ideale."
     },
     "GAMEPLAY_CatFood": {

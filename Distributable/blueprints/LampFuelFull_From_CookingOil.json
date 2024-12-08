@@ -1,0 +1,22 @@
+{
+    "Name": "LampFuelFull_From_CookingOil",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_CookingOil",
+            "Count": 10
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Fire",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_LampFuelFull",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 60,
+    "CraftingAudio": "",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

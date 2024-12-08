@@ -1,0 +1,22 @@
+{
+    "Name": "Trade_sell_5_MooseHideDried",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_MooseHideDried",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_CashBundle",
+    "CraftedResultCount": 4,
+    "DurationMinutes": 1,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

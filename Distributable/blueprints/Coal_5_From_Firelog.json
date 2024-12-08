@@ -1,0 +1,24 @@
+{
+    "Name": "Coal_5_From_Firelog",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Firelog",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Coal",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 20,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}
