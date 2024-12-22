@@ -167,7 +167,7 @@
         "Japanese": "スパゲッティの缶詰",
         "Spanish (Spain)": "Spagetti enlatado",
         "Turkish": "Spagetti",
-        "Simplified Chinese":"意式肉丸面罐头",
+        "Simplified Chinese":"KP31灵魂食物",
         "Italian": "Spaghetti"
     },
     "GAMEPLAY_CannedSpaghettiDescription": {
@@ -178,7 +178,7 @@
         "Japanese": "君の内なる子供心に届けよう！",
         "Spanish (Spain)": "¡Alimenta a tu niño interior!",
         "Turkish": "İçindeki çocuğu doyur!",
-        "Simplified Chinese":"浓郁的肉香寻引最真挚的自己，可冷食也可开盖烹煮。脱水+10%",
+        "Simplified Chinese":"KP31神秘科技灵魂食物，TLD饮食最终也是最完美的解决方案。\n\n可永久保存。",
         "Italian": "Sfama il tuo bambino interiore!"
     },
     "GAMEPLAY_CannedStew": {
@@ -200,7 +200,7 @@
         "Japanese": "牛肉と野菜が入った愛情あふれる料理。理想の一品だ。",
         "Spanish (Spain)": "Un plato copioso con ternera y verduras. Una comida ideal.",
         "Turkish": "Sığır eti ve sebze ile doyurucu bir yemek. İdeal bir yemek.",
-        "Simplified Chinese":"KP31神秘科技炖菜系列，使用能各种蔬菜在工作台加工而成。0.1kg的重量却有着0.5个W的kcal，适合出远门时携带。\n\n可永久保存。",
+        "Simplified Chinese":"KP31神秘科技炖菜系列，使用各种蔬菜在工作台加工而成。0.1kg的重量却有着0.5个W的kcal，适合出远门时携带。\n\n可永久保存。",
         "Italian": "Un caloroso pasto con manzo e verdure. Un pasto ideale."
     },
     "GAMEPLAY_CatFood": {

@@ -6,7 +6,7 @@ scene=MountainPassRegion
 item=GEAR_ForsakenSpirits p=202.5718,198.2712,763.3864 r=-0.0000,174.0383,90.0001 c=45
 item=GEAR_CupMilk p=204.6865,197.9094,761.2477 r=-0.0000,101.3455,-0.0000 c=40
 # Cabin B
-item=GEAR_CannedChili p=258.7242,371.5902,-53.3494 r=358.7794,341.3830,359.9916 c=35
+# item=GEAR_CannedChili p=258.7242,371.5902,-53.3494 r=358.7794,341.3830,359.9916 c=35
 item=GEAR_CatFood p=259.0973,371.5902,-52.7067 r=0.0000,294.5832,0.0000 c=65
 item=GEAR_CannedMangos p=253.5295,371.1281,-46.9583 r=291.0249,343.3143,357.1682 c=45
 # Cabin C
@@ -19,7 +19,7 @@ item=GEAR_ModChocolateBar p=544.4438,587.4080,-581.7156 r=357.6440,278.5771,0.53
 #
 scene=MountainPassCabinA
 item=GEAR_ForsakenSpirits p=1.6086,0.0301,1.8917 r=-0.0000,254.7565,90.0000 c=55
-item=GEAR_CannedSpaghetti p=-1.3587,0.0620,3.8619 r=0.0000,176.3267,90.0000 c=65
+# item=GEAR_CannedSpaghetti p=-1.3587,0.0620,3.8619 r=0.0000,176.3267,90.0000 c=65
 item=GEAR_MountainSoda p=5.5482,0.9764,-2.8967 r=-0.0000,164.4066,-0.0000 c=45
 #
 scene=MountainPassBuriedCabin
@@ -36,7 +36,7 @@ item=GEAR_ModChocolateBar p=-5.6233,0.9976,-2.5746 r=0.0000,199.5727,0.0000 c=50
 item=GEAR_SoyRamenCooked p=-3.2861,0.9218,-2.8388 r=-0.0000,41.7589,-0.0000 c=35
 #
 scene=MountainPassCaveA
-item=GEAR_CannedChili p=-13.7198,42.4192,22.1226 r=281.8560,225.8877,47.6246 c=35
+# item=GEAR_CannedChili p=-13.7198,42.4192,22.1226 r=281.8560,225.8877,47.6246 c=35
 #
 scene=MountainPassCaveB
 item=GEAR_ForsakenSpiritsPlastic p=75.5475,56.8967,11.9371 r=6.6699,271.1664,93.6555 c=45

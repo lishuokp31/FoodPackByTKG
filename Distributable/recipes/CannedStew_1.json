@@ -4,7 +4,8 @@
     "RecipeIcon": "",
     "RequiredSkillLevel": 1,
     "AllowedCookingPots": [
-        "GEAR_cookingpot"
+        "GEAR_cookingpot",
+        "GEAR_Skillet"
     ],
     "BlueprintData": {
         "Name": "GEAR_CannedStew",
@@ -15,23 +16,43 @@
             },
             {
                 "Item": "GEAR_BurdockPrepared",
-                "Count": 4
+                "Count": 2
             },
             {
                 "Item": "GEAR_carrot",
-                "Count": 8
+                "Count": 2
             },
             {
                 "Item": "GEAR_potato",
-                "Count": 8
+                "Count": 2
             },
             {
                 "Item": "GEAR_CattailStalk", 
-                "Count": 24
+                "Count": 16
             },
             {
                 "Item": "GEAR_RecycledCan",
                 "Count": 1
+            }
+        ],
+        "RequiredPowder": [
+            {
+                "Powder": "POWDER_Flour",
+                "QuantityInKilograms": 0.25
+            },
+            {
+                "Powder": "POWDER_salt",
+                "QuantityInKilograms": 0.05
+            }
+        ],
+        "RequiredLiquid": [
+            {
+                "Liquid": "LIQUID_WaterPotable",
+                "VolumeInLitres": 2
+            },
+            {
+                "Liquid": "LIQUID_CookingOil",
+                "VolumeInLitres": 0.5
             }
         ],
         "CraftedResult": "GEAR_CannedStew",

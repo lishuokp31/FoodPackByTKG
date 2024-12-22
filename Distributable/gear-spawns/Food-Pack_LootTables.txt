@@ -7,7 +7,7 @@ item=CannedChili w=2
 item=CannedMangos w=2
 item=CannedPears w=3
 item=CannedPineapples w=3
-item=CannedSpaghetti w=2
+# item=CannedSpaghetti w=2
 item=CannedStew w=2
 item=CatFood w=1
 item=CatFoodSmall w=2
@@ -26,7 +26,7 @@ item=WhiskyFlask w=2
 loottable=FishingDrawer
 #----------------------
 item=CannedChili w=3
-item=CannedSpaghetti w=2
+# item=CannedSpaghetti w=2
 item=CannedStew w=2
 item=WhiskyFlask w=1
 item=Jalapeno w=1
@@ -59,7 +59,7 @@ item=mountainsodaplastic w=5
 item=ricecooked w=2
 item=CannedPears w=5
 item=CannedPineapples w=5
-item=CannedSpaghetti w=5
+# item=CannedSpaghetti w=5
 item=CannedStew w=5
 item=CannedChili w=5
 item=CannedMangos w=5
@@ -84,7 +84,7 @@ item=CannedMangos w=3
 item=riceraw w=2
 item=CannedPears w=4
 item=CannedPineapples w=5
-item=CannedSpaghetti w=5
+# item=CannedSpaghetti w=5
 item=CannedStew w=5
 item=CatFood w=4
 item=CatFoodSmall w=2
@@ -128,7 +128,7 @@ item=CupNoodles w=1
 loottable=MetalBox
 #-----------------
 item=CannedChili w=2
-item=CannedSpaghetti w=2
+# item=CannedSpaghetti w=2
 item=CannedStew w=2
 item=CatFood w=1
 item=CatFoodSmall w=1
@@ -181,7 +181,7 @@ item=CannedPineapples w=3
 loottable=CargoFoodB
 #-------------------------
 item=CannedChili w=3
-item=CannedSpaghetti w=2
+# item=CannedSpaghetti w=2
 item=CannedStew w=1
 
 #-------------------------

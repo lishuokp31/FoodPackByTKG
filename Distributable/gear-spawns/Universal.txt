@@ -215,8 +215,8 @@ item=GEAR_MountainSoda p=-4.6960,0.8709,3.6111 r=0.0000,304.9962,0.0000 c=55
 item=GEAR_Jalapeno p=-8.9363,1.1149,-4.0956 r=-0.0000,0.7853,-0.0000 c=35
 item=GEAR_FlourBag p=-6.9972,1.1144,-2.0147 r=-0.0000,145.8885,-0.0000 c=60
 item=GEAR_CatFoodSmall p=-8.9178,0.2309,-3.2232 r=0.0000,274.4554,0.0000 c=45
-item=GEAR_CannedChili p=-5.5675,0.8877,-5.9309 r=-0.0000,156.3715,-0.0000 c=65
-item=GEAR_CannedChili p=-5.6971,0.8877,-5.8790 r=-0.0000,134.4444,-0.0000 c=45
+# item=GEAR_CannedChili p=-5.5675,0.8877,-5.9309 r=-0.0000,156.3715,-0.0000 c=65
+# item=GEAR_CannedChili p=-5.6971,0.8877,-5.8790 r=-0.0000,134.4444,-0.0000 c=45
 item=GEAR_SoyRamen p=-9.0159,0.2304,-3.5391 r=0.0000,359.3029,0.0000 c=35
 item=GEAR_SoyRamen p=-8.9754,0.2304,-3.3584 r=-0.0000,52.3225,-0.0000 c=25
 item=GEAR_HotCocoaBox p=-3.7022,0.0300,2.9898 r=0.0000,36.0732,90.0000 c=45
@@ -291,7 +291,7 @@ scene=WoodCabinA
 item=GEAR_bread p=-1.8622,1.2214,1.4016 r=0,0.5234,0 c=35
 item=GEAR_cookies p=-1.0359,0.8728,-3.3711 r=0,195.7149,0 c=35
 item=GEAR_randomliquorbottle p=2.1053,0.0019,2.5024 r=0,86.1477,0 c=35
-item=GEAR_CannedChili p=1.5079,0.8490,3.4965 r=-0.0000,98.8682,-0.0000 c=55
+# item=GEAR_CannedChili p=1.5079,0.8490,3.4965 r=-0.0000,98.8682,-0.0000 c=55
 item=GEAR_RandomSodaTall p=-1.8068,0.9059,1.6616 r=0.0000,271.5494,0.0000 c=65
 item=GEAR_Jalapeno p=-0.8026,0.1721,-3.4784 r=-0.0000,16.7843,-0.0000 c=35
 item=GEAR_CupNoodles p=1.5158,0.8489,3.6535 r=-0.0000,92.2104,-0.0000 c=45
@@ -374,7 +374,7 @@ item=GEAR_CatFood p=-2.1704,0.0351,3.1127 r=0.0000,301.8903,0.0000 c=45
 scene=HouseBasementC 
 item=GEAR_RandomSodaTall p=-14.2448,152.8839,-1.1664 r=270.0000,180.7724,0.0000 c=85
 item=GEAR_ModChocolateBar p=-0.2602,151.6039,2.3749 r=0.0000,216.2260,0.0000 c=85
-item=GEAR_CannedStew p=-0.6944,150.9617,2.6694 r=-0.0000,53.4599,-0.0000 c=75
+# item=GEAR_CannedStew p=-0.6944,150.9617,2.6694 r=-0.0000,53.4599,-0.0000 c=75
 item=GEAR_CupNoodles p=-0.4375,151.6039,2.4027 r=0.0000,300.3154,0.0000 c=45
 item=GEAR_CatFood p=-0.9331,150.9617,2.4494 r=0.0000,238.6842,0.0000 c=60
 #

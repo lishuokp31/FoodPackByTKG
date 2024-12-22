@@ -1,9 +1,9 @@
 {
-    "Name": "Coal_4_From_Softwood_3",
+    "Name": "LeatherDried_From_Cloth",
     "RequiredGear": [
         {
-            "Item": "GEAR_Softwood",
-            "Count": 3
+            "Item": "GEAR_Cloth",
+            "Count": 4
         }
     ],
     "KeroseneLitersRequired": 0,
@@ -15,9 +15,9 @@
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
-    "CraftedResult": "GEAR_Coal",
-    "CraftedResultCount": 3,
-    "DurationMinutes": 30,
+    "CraftedResult": "GEAR_LeatherDried",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
     "CraftingAudio": "PLAY_HARVESTINGACORNS",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"

@@ -30,7 +30,7 @@ item=GEAR_FlourBag p=-3.6066,0.6857,8.0102 r=-0.0000,4.1035,-0.0000 c=85
 # Bunker C
 scene=BunkerC
 item=GEAR_AuroraEnergyDrink p=2.5946,1.0969,8.2495 r=-0.0000,162.7256,-0.0000 c=85
-item=GEAR_CannedSpaghetti p=1.5206,0.2371,15.7130 r=358.2775,139.7630,359.4186 c=85
+# item=GEAR_CannedSpaghetti p=1.5206,0.2371,15.7130 r=358.2775,139.7630,359.4186 c=85
 item=GEAR_RedWineBottle p=-8.9180,-1.0352,11.1464 r=0.0000,305.4774,0.0000 c=100
 item=GEAR_Bread p=-10.2015,-0.1289,11.3387 r=-0.0000,64.3938,-0.0000 c=85
 item=GEAR_ModChocolateBar p=-9.1166,-0.3381,13.7105 r=0.0000,286.5096,0.0000 c=85
@@ -40,8 +40,8 @@ item=GEAR_SoyRamenCooked p=-9.2707,-0.3381,14.0635 r=0.0000,301.7175,0.0000 c=85
 # Bunker XL
 scene=BunkerXL
 item=GEAR_HotCocoaCup p=-2.1989,1.3470,28.7689 r=-0.0000,35.4297,-0.0000 c=85
-item=GEAR_CannedStew p=5.7373,1.6583,22.8032 r=0.0000,330.5658,0.0000 c=85
-item=GEAR_CannedChili p=5.6013,1.6583,22.3588 r=0.0000,335.3920,0.0000 c=85
+# item=GEAR_CannedStew p=5.7373,1.6583,22.8032 r=0.0000,330.5658,0.0000 c=85
+# item=GEAR_CannedChili p=5.6013,1.6583,22.3588 r=0.0000,335.3920,0.0000 c=85
 item=GEAR_CannedMangos p=5.6438,0.3654,22.9890 r=-0.0000,26.1753,-0.0000 c=85
 item=GEAR_RedWineBottle p=-0.6242,0.2818,18.2235 r=-0.0000,68.5166,-0.0000 c=100
 item=GEAR_RedWineBottle p=-0.6160,0.2844,18.0799 r=-0.0000,92.2663,-0.0000 c=85

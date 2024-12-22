@@ -4,34 +4,15 @@
     "RecipeIcon": "",
     "RequiredSkillLevel": 1,
     "AllowedCookingPots": [
-        "GEAR_cookingpot"
+        "GEAR_cookingpot",
+        "GEAR_Skillet"
     ],
     "BlueprintData": {
         "Name": "REC_CannedChili",
         "RequiredGear": [
             {
                 "Item": "GEAR_CookedMeatDeer",
-                "Count": 6
-            },
-            {
-                "Item": "GEAR_carrot",
-                "Count": 3
-            },
-            {
-                "Item": "GEAR_potato",
-                "Count": 3
-            },
-            {
-                "Item": "GEAR_AcornShelled",
-                "Count": 4
-            },
-            {
-                "Item": "GEAR_BurdockPrepared",
-                "Count": 2
-            },
-            {
-                "Item": "GEAR_CattailStalk",
-                "Count": 4
+                "Count": 10
             },
             {
                 "Item": "GEAR_RecycledCan",
@@ -45,7 +26,7 @@
             },
             {
                 "Powder": "POWDER_salt",
-                "QuantityInKilograms": 0.1
+                "QuantityInKilograms": 0.05
             }
         ],
         "RequiredLiquid": [
@@ -55,7 +36,7 @@
             },
             {
                 "Liquid": "LIQUID_CookingOil",
-                "VolumeInLitres": 0.25
+                "VolumeInLitres": 0.5
             }
         ],
         "CraftedResult": "GEAR_CannedChili",
