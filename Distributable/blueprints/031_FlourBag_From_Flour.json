@@ -1,9 +1,9 @@
 {
-    "Name": "Old Mill Flour",
+    "Name": "FlourBag_From_Flour",
     "RequiredGear": [
         {
-            "Item": "GEAR_FlourBag",
-            "Count": 9
+            "Item": "GEAR_Flour",
+            "Count": 1
         }
     ],
     "KeroseneLitersRequired": 0,
@@ -12,8 +12,8 @@
     "RequiredCraftingLocation": "Anywhere",
     "RequiresLitFire": false,
     "RequiresLight": false,
-    "CraftedResult": "GEAR_Flour",
-    "CraftedResultCount": 1,
+    "CraftedResult": "GEAR_FlourBag",
+    "CraftedResultCount": 9,
     "DurationMinutes": 15,
     "CraftingAudio": "",
     "AppliedSkill": "None",

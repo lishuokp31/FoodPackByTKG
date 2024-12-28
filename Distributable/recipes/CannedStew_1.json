@@ -11,7 +11,7 @@
         "Name": "GEAR_CannedStew",
         "RequiredGear": [
             {
-                "Item": "GEAR_AcornCookedBig",
+                "Item": "GEAR_AcornShelled",
                 "Count": 4
             },
             {

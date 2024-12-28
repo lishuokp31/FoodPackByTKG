@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_CannedSpaghetti",
                             "DescriptionLocalizatonId" : "GAMEPLAY_CannedSpaghettiDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.4,
+                            "WeightKG": 0.1,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Random",

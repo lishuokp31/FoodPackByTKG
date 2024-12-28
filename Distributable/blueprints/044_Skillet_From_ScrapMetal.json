@@ -1,21 +1,23 @@
 {
-    "Name": "Trade_1_flour",
+    "Name": "Skillet_From_ScrapMetal",
     "RequiredGear": [
         {
-            "Item": "GEAR_CashBundle",
-            "Count": 1
+            "Item": "GEAR_ScrapMetal",
+            "Count": 36
         }
     ],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
-    "RequiredTool": "",
-    "OptionalTools": [],
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
-    "CraftedResult": "GEAR_flour",
+    "CraftedResult": "GEAR_Skillet",
     "CraftedResultCount": 1,
-    "DurationMinutes": 1,
+    "DurationMinutes": 480,
     "CraftingAudio": "PLAY_HARVESTINGACORNS",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
